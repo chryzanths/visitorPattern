@@ -6,4 +6,4 @@ Each furniture type might have its own unique shipping cost calculation logic. F
 
 Implement a visitor design pattern approach. You must show the different elements of visitor design in your solution.  DO NOT USE ABSTRACT CLASSES. You are free to name your interfaces and concrete classes. Have a client code that will test your program.
 
-![visitor pattern (1)](https://github.com/chryzanths/visitorPattern/assets/104879763/020c62c7-e268-417c-8a35-f17e112ded50)
+![visitor pattern (4)](https://github.com/chryzanths/visitorPattern/assets/104879763/a6703b23-fb25-42bd-b372-36309fa0b0a8)
